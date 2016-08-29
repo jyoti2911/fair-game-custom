@@ -1,0 +1,7 @@
+FairGame.Configuration.form:
+  path: 'admin/config/fairgame'
+  defaults:
+    _title: 'Fair Game Configuration'
+    _form: '\Drupal\fair_game_custom\FairGamingJapaneseConfig'
+  requirements:
+    _permission: 'access content'

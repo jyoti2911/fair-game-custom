@@ -1,0 +1,8 @@
+fair_game_japanese.tab_1:
+  route_name: FairGame.Configuration.form
+  title: Fair Game Japanese Configuration
+  base_route: FairGame.Configuration.form
+fair_game_english.tab_2:
+   route_name: FairGame.Configuration.form
+   title: Fair Game English Configuration
+   base_route: FairGame.Configuration.form

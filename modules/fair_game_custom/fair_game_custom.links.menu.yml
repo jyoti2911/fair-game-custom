@@ -1,0 +1,6 @@
+FairGame.configuration:
+  title: Fair Gaming Page Configuration
+  description: 'Configure Fair Game PAge'
+  parent: system.admin_config_development
+  route_name: twitter.Configuration.form
+  weight: 100
